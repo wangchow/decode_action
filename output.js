@@ -1,4 +1,4 @@
-//Tue Dec 03 2024 14:02:05 GMT+0000 (Coordinated Universal Time)
+//Wed Dec 11 2024 15:35:56 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const _0x49dfef = _0x5370a4("电信营业厅");
@@ -14,7 +14,7 @@ const _0x5336b3 = require("fs");
 const _0x5e650c = require("crypto-js");
 const _0x22f09c = "chinaTelecom";
 const _0x1876a7 = /[\n\&\@]/;
-const _0x4aec53 = [_0x22f09c + "Accounu"];
+const _0x4aec53 = [_0x22f09c + "Account"];
 const _0x128624 = 30000;
 const _0x5a04a9 = 3;
 const _0x1736e2 = _0x22f09c + "Rpc";
